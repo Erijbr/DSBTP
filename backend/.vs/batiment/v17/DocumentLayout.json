@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\migrations\\20241205095726_modif5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\migrations\\20241205095726_modif5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\temoignage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\temoignage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\batimentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\batimentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\migrations\\20241204202617_modif1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\migrations\\20241204202617_modif1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\controllers\\projetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\controllers\\projetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\controllers\\temoignagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\controllers\\temoignagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\batiment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\batiment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\batiment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\batiment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\migrations\\20241204210645_modif3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\migrations\\20241204210645_modif3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\migrations\\20241204211044_modif4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\migrations\\20241204211044_modif4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|c:\\users\\lenovo\\desktop\\projet_web\\back\\batiment\\batiment\\migrations\\20241204203934_modif2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3C200-4150-4557-933F-633BB39A3AC3}|batiment\\batiment.csproj|solutionrelative:batiment\\migrations\\20241204203934_modif2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\SmtpSettings.cs",
+              "RelativeToolTip": "batiment\\Models\\SmtpSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:51:10.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "batiment\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Services\\EmailService.cs",
+              "RelativeToolTip": "batiment\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:48:16.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\appsettings.json",
+              "RelativeDocumentMoniker": "batiment\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\appsettings.json",
+              "RelativeToolTip": "batiment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T20:12:10.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "batiment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "batiment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:55:45.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Program.cs",
+              "RelativeDocumentMoniker": "batiment\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Program.cs",
+              "RelativeToolTip": "batiment\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:45:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241205095726_modif5.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241205095726_modif5.cs",
+              "RelativeDocumentMoniker": "batiment\\Migrations\\20241205095726_modif5.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241205095726_modif5.cs",
+              "RelativeToolTip": "batiment\\Migrations\\20241205095726_modif5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:57:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\user.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\user.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\user.cs",
+              "RelativeToolTip": "batiment\\Models\\user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:49:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\Service.cs",
+              "RelativeToolTip": "batiment\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:52:20.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241204210645_modif3.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204210645_modif3.cs",
+              "RelativeDocumentMoniker": "batiment\\Migrations\\20241204210645_modif3.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204210645_modif3.cs",
+              "RelativeToolTip": "batiment\\Migrations\\20241204210645_modif3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:06:46.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241204211044_modif4.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204211044_modif4.cs",
+              "RelativeDocumentMoniker": "batiment\\Migrations\\20241204211044_modif4.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204211044_modif4.cs",
+              "RelativeToolTip": "batiment\\Migrations\\20241204211044_modif4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:10:44.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Temoignage.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\Temoignage.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\Temoignage.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\Temoignage.cs",
+              "RelativeToolTip": "batiment\\Models\\Temoignage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:53:08.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241204203934_modif2.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204203934_modif2.cs",
+              "RelativeDocumentMoniker": "batiment\\Migrations\\20241204203934_modif2.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204203934_modif2.cs",
+              "RelativeToolTip": "batiment\\Migrations\\20241204203934_modif2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:39:34.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\RendezVous.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\RendezVous.cs",
+              "RelativeToolTip": "batiment\\Models\\RendezVous.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:51:47.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Projet.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\Projet.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\Projet.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\Projet.cs",
+              "RelativeToolTip": "batiment\\Models\\Projet.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:52:39.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241204202617_modif1.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204202617_modif1.cs",
+              "RelativeDocumentMoniker": "batiment\\Migrations\\20241204202617_modif1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Migrations\\20241204202617_modif1.cs",
+              "RelativeToolTip": "batiment\\Migrations\\20241204202617_modif1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:26:17.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "batiment\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "batiment\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAkwFgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:19:25.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BatimentContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\BatimentContext.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\BatimentContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\BatimentContext.cs",
+              "RelativeToolTip": "batiment\\Models\\BatimentContext.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAnwFkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:05:07.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "batiment\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "batiment\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowFAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:16:34.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RendezVousController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\RendezVousController.cs",
+              "RelativeDocumentMoniker": "batiment\\Controllers\\RendezVousController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\RendezVousController.cs",
+              "RelativeToolTip": "batiment\\Controllers\\RendezVousController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:18:20.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "batiment\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "batiment\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:51:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjetsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\ProjetsController.cs",
+              "RelativeDocumentMoniker": "batiment\\Controllers\\ProjetsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\ProjetsController.cs",
+              "RelativeToolTip": "batiment\\Controllers\\ProjetsController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAIBJwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:18:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "batiment.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\batiment.csproj",
+              "RelativeDocumentMoniker": "batiment\\batiment.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\batiment.csproj",
+              "RelativeToolTip": "batiment\\batiment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T19:48:38.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TemoignagesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\TemoignagesController.cs",
+              "RelativeDocumentMoniker": "batiment\\Controllers\\TemoignagesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\Controllers\\TemoignagesController.cs",
+              "RelativeToolTip": "batiment\\Controllers\\TemoignagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:20:03.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "batiment.http",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\batiment.http",
+              "RelativeDocumentMoniker": "batiment\\batiment.http",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_web\\back\\batiment\\batiment\\batiment.http",
+              "RelativeToolTip": "batiment\\batiment.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-20T16:53:11.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
