@@ -106,7 +106,32 @@ namespace batiment.Controllers
         {
             return _context.Users.Any(e => e.Id == id);
         }
+    
+    [HttpGet("validateLogin")]
+public IActionResult ValidateLogin([FromQuery] string email, [FromQuery] string password)
+{
+    if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(password))
+    {
+        return BadRequest("Email ou mot de passe manquant.");
     }
+
+    var user = _context.Users
+        .FirstOrDefault(u => u.Email == email );
+
+    if (user == null)
+    {
+        return Unauthorized("Utilisateur non trouvé.");
+    }
+
+    // Comparer le mot de passe en tenant compte de la casse
+    if (user.Motdepasse == password)  // La comparaison est sensible à la casse
+    {
+        return Ok(user);  // L'utilisateur est authentifié, retour de l'utilisateur
+    }
+
+
+    return Unauthorized("Utilisateur non trouvé ou mot de passe incorrect");
+}}
 }
 
 //using System.Collections.Generic;
