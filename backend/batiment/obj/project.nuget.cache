@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/4qTjJdwPBU=",
+  "dgSpecHash": "VsxyboHBwAc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\ds\\DSBTP\\backend\\batiment\\batiment.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\chrif\\DSBTP\\backend\\batiment\\batiment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
